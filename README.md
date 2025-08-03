@@ -4,6 +4,11 @@ Fitness Buddy is a conversational AI agent designed to help individuals maintain
 
 ---
 
+# Public URL
+https://us-south.ml.cloud.ibm.com/ml/v4/deployments/58bb03be-fdcc-40e1-9bcd-86a5d84fac6e/ai_service?version=2021-05-01
+
+---
+
 ## 🌟 Features
 
 - 🏋️‍♂️ **Home Workout Recommendations**  
